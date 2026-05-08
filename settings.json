@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "renrenwohol-WgXM.aternos.me:47042",
+    "ip": "WgXM.aternos.me:47042",
     "port": 47042,
     "version": "",
     "try-creative": false
